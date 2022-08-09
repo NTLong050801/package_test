@@ -1,5 +1,5 @@
 {
-    "name": "long/test",
+    "name": "nggthlong/test",
     "type": "php",
     "description": "Your package description goes here",
     "keywords": ["relevant","tags","go","here"],
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "long\\sayhello\\": "src/"
+            "nggthlong\\sayhello\\": "src/"
         }
     }
 }
