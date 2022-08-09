@@ -1,9 +1,9 @@
 <?php
-namespace kynm\SayHello;
+namespace nggthanhlong\sayhello;
 class SayHello
 {
     public static function world()
     {
-        return 'Hello World, Composer!';
+        echo 'Hello World, Composer!';
     }
 }
